@@ -1,0 +1,24 @@
+外包项目文件目录结构
+
+项目根目录/
+├── src/
+│   ├── main.py
+│   ├── utils/
+│   │   ├── helpers.py
+│   │   └── validators.py
+│   ├── models/
+│   │   ├── user.py
+│   │   └── product.py
+│   └── views/
+│       ├── home.py
+│       └── dashboard.py
+├── tests/
+│   ├── test_main.py
+│   └── test_models.py
+├── docs/
+│   ├── README.md
+│   └── API.md
+├── config/
+│   ├── settings.yaml
+│   └── logging.conf
+└── requirements.txt

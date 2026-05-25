@@ -1,0 +1,18 @@
+### 计算机知识点关系
+
+| 源知识点   | 目标知识点 | 关系类型 |
+| :--------- | :--------- | :------- |
+| Python     | NumPy      | 依赖     |
+| Python     | Pandas     | 依赖     |
+| NumPy      | Pandas     | 被依赖   |
+| Pandas     | Matplotlib | 调用     |
+| Matplotlib | Seaborn    | 扩展     |
+| HTML       | CSS        | 配合     |
+| HTML       | JavaScript | 配合     |
+| JavaScript | React      | 框架     |
+| JavaScript | Vue        | 框架     |
+| SQL        | MySQL      | 实现     |
+| SQL        | PostgreSQL | 实现     |
+| 数据结构   | 算法       | 基础     |
+| 操作系统   | 进程管理   | 包含     |
+| 操作系统   | 内存管理   | 包含     |
